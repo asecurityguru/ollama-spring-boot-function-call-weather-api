@@ -1,4 +1,4 @@
-# Weather Inquiry Application
+# Weather Inquiry Application with Ollama Model Integration - Feeding live weather data to Ollama Models
 
 ## Overview
 
@@ -42,5 +42,5 @@ The Weather Inquiry Application is a Spring Boot application designed to provide
    ./gradlew clean build bootRun
 
 
-# CREDITS
+## CREDITS
 Raghu The Security Expert and ASG
