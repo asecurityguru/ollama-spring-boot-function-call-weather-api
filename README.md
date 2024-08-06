@@ -1,4 +1,4 @@
-# Weather Inquiry Application
+# Weather Inquiry Application with Ollama Model Integration - Feeding live weather data to Ollama Models
 
 ## Overview
 
