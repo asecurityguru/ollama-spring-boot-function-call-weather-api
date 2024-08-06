@@ -31,8 +31,8 @@ The Weather Inquiry Application is a Spring Boot application designed to provide
 2. **Configure the application properties**:
    - Update `src/main/resources/application.properties` with your weather API credentials:
      ```properties
-     weather.api-key=YOUR_API_KEY
-     weather.api-url=https://api.weatherapi.com/v1
+     weather.apiKey=YOUR_API_KEY
+     weather.apiUrl=https://api.weatherapi.com/v1
      ```
 
 ## Running the Application
