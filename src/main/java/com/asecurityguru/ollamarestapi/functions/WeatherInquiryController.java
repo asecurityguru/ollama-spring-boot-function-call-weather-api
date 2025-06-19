@@ -13,9 +13,7 @@ public class WeatherInquiryController {
     private final ChatClient chatClient;
 
     public WeatherInquiryController(ChatClient.Builder chatClientbuilder) {
-        this.chatClient = chatClientbuilder
-                .defaultFunctions("weatherFunction")
-                .build();
+         this.chatClient = chatClientBuilder.build();
     }
 
     @GetMapping("/api/v1/cityweather")
