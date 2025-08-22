@@ -26,7 +26,7 @@ The Weather Inquiry Application is a Spring Boot application designed to provide
 ## Configuration
 
 1. **Set up your environment**:
-   - Ensure you have Java 17 and Gradle installed.
+   - Ensure you have Java 17, Ollama and Gradle installed.
 
 2. **Configure the application properties**:
    - Update `src/main/resources/application.properties` with your weather API credentials:
