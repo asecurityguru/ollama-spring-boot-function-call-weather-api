@@ -12,7 +12,7 @@ public class WeatherInquiryController {
     private static final Logger log = LoggerFactory.getLogger(WeatherInquiryController.class);
     private final ChatClient chatClient;
 
-    public WeatherInquiryController(ChatClient.Builder chatClientbuilder) {
+    public WeatherInquiryController(ChatClient.Builder chatClientBuilder) {
          this.chatClient = chatClientBuilder.build();
     }
 
